@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PuzzleJava",
+            "request": "launch",
+            "mainClass": "PuzzleJava",
+            "projectName": "javaFun_cdc1ff5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FizzBuzzTest",
+            "request": "launch",
+            "mainClass": "FizzBuzzTest",
+            "projectName": "javaFun_cdc1ff5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PythagorenTest",
+            "request": "launch",
+            "mainClass": "PythagorenTest",
+            "projectName": "javaFun_cdc1ff5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImportDemoTest",
+            "request": "launch",
+            "mainClass": "ImportDemoTest",
+            "projectName": "javaFun_cdc1ff5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstJavaDojo",
+            "request": "launch",
+            "mainClass": "FirstJavaDojo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
